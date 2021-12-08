@@ -1,2 +1,6 @@
 # Ignore volumes folder
 volumes/
+
+# Ignore certs
+*.pem
+*.crt
